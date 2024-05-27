@@ -22,7 +22,7 @@ There are essentially 4 possible outcomes.
 - If A remains silent but B testifies against A, A will serve three years in prison and B will be set free.
 - If A and B testify against each other, they will each serve two years.
 
-***`IN SHORT`***
+***`TLDR`***
 It's a game theory thought experiment which models many real-world situations involving strategic behavior. In casual usage, the label "prisoner's dilemma" may be applied to any situation in which two entities could gain important benefits from cooperating or suffer from failing to do so, but find it difficult or expensive to coordinate their activities.
 <!--Prisoner's Dilemma Reveals About Life, The Universe and Everything. -->
 <!-- TODO
